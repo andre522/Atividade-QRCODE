@@ -1,0 +1,14 @@
+{
+    "name": "andre/qr-code",
+    "authors": [
+        {
+            "name": "andre522",
+            "email": "andreluis22.ap@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qrcode": "^2.5",
+        "respect/validation": "^1.1",
+        "swiftmailer/swiftmailer": "^6.1"
+    }
+}
